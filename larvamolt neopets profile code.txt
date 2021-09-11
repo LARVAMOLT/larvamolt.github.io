@@ -1,0 +1,150 @@
+<style>
+//
+*{}
+
+#userinfo .contentModuleContent{
+background-image:url(http://images.neopets.com/items/can_green_jellies.gif);
+background-repeat:no-repeat;
+background-position:95% 10%;
+}
+#userinfo .medText img {visibility:hidden;}
+#userinfo .medText table table img {visibility:visible;}
+</style>
+
+
+<style>
+#habitarium, #ban, #ncmall, #userneohome, #header, #footer, hr, .sf {
+	display: none;
+}
+.contentModule, .contentModuleTable {
+	background: none;
+	border: none;
+}
+body {
+    background: #7a0084;
+	background-image: url("https://i.imgur.com/ih9wzfd.gif");
+	background-attachment: fixed;
+}
+body, .medText, td {
+	font: 9pt verdana;
+	line-height: 12pt;
+	color: #535353;
+	font-weight: normal;
+}
+.content div b {
+	color: #3fcdef !important;
+	font: 9pt verdana;
+	font-weight: bold;
+}
+.contentModuleHeaderAlt, .contentModuleHeader {
+	font: 16pt verdana;
+	text-transform: uppercase;
+	color: #f265ac;
+	font-weight: bold;
+	background: none;
+	text-align: left;
+}
+.contentModuleTable {
+	border: none;
+}
+h1 {
+	font: 16pt verdana;
+	text-transform: uppercase;
+	color: #3fcdef;
+	font-weight: bold;
+	background: none;
+	text-align: left;
+}
+a:link, a:active, a:visited {
+	font-weight: normal;
+	color: #25d100 !important;
+	text-decoration: none;
+}
+a:hover {
+	color: #535353;
+}
+#navy {
+	background: #ffffff;
+	text-align: center;
+	width: 100%;
+}
+#navy a {
+	color: #3fcdef;
+	display: inline-block;
+	width: 65px;
+	padding: 4px;
+	margin: 2px;
+	text-transform: uppercase;
+	background: #efefef;
+	font: 9pt trebuchet MS;
+	font-weight: bold;
+}
+#navy a:hover {
+    color: #ffffff;
+	padding: 4px;
+	margin: 2px;
+	background: #ffffff;
+    background-image: url(https://i.imgur.com/ih9wzfd.gif);
+}
+#main, #content {
+	border: none;
+	width: 850px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#aja {
+	width: 8px;
+}
+#text {
+	overflow: auto;
+	text-align: justify;
+}
+#down {
+	margin-top: 300px;
+}
+#userneopets img {
+	padding: 5px;
+	background: #dddddd;
+}
+#userneopets {
+	margin-top: -700px;
+}
+.bx-viewport {
+	height: 90% !important;
+}
+td #babs {
+    vertical-align: top;
+	text-align: center;
+}
+td #decos {
+    text-align: left;
+}
+</style><div id="navy">
+<a href="/myaccount.phtml">Account</a> <a href="/customise/">Customize</a> <a href="/games/arcade.phtml">Games</a> <a href="/explore.phtml">Explore</a> <a href="/nf.phtml">News</a> <a href="/petcentral.phtml">Central</a> <a href="/neoboards/index.phtml">Boards</a> <a href="/objects.phtml">Shops</a> <a href="/mall/index.phtml">Mall</a> <a href="/~Sparkle">Credit</a>
+</div>
+<div id="text">
+
+<h1>Larvamolt's Babies</h1>
+<table><tr><td id="babs" width="50%">
+(8/27/21) Vote for my first <a href="http://www.neopets.com/beauty/details.phtml?pet=cursedimages">Beauty Contest</a> entry ever!!
+<p>
+<a href="/~Larvamolt"><img src="https://i.imgur.com/82nM3IL.gif" width="42"></a>
+<a href="/petlookup.phtml?pet=cursedimages"><img src="https://i.imgur.com/0DgkEyB.gif" width="42"></a>
+<a href="/petlookup.phtml?pet=plusheis"><img src="http://i.imgur.com/5iqJMoY.gif" width="42"></a>
+<a href="/petlookup.phtml?pet=kureomi"><img width="42" src="https://i.imgur.com/sqav4Uk.gif"></a>
+<a href="/petlookup.phtml?pet=roll666"><img width="42" src="https://i.imgur.com/p7Fb5jt.gif"></a>
+<a href="/petlookup.phtml?pet=cray0n"><img width="42" src="https://i.imgur.com/qz76LPC.gif"></a>
+<a href="/petlookup.phtml?pet=sockchew"><img width="15%" src="https://images.neopets.com/items/toy_babykougra.gif"></a>
+</td>
+<td width="20%">
+Hey I'm Larva :)
+<br><b>They/them</b> pronouns
+<br>» <a href="/~Larvamolt">Portfolio page</a>
+</td>
+<td id="decos"><br style="text-align: center;">
+<a href="/~cursedimages"><img src="http://i.imgur.com/emJHHI4.gif"></a>
+<a href="/~cursedimages"><img src="http://i.imgur.com/qwFfyyT.gif"></a>
+<a href="/~cursedimages"><img src="http://i.imgur.com/EJlNx8j.gif"></a>
+<a href="/~cursedimages"><img src="http://i.imgur.com/rURMh2E.gif"></a></br></td>
+</tr></table></div>
+<br><br><div id="down"></div>
